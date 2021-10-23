@@ -1,10 +1,10 @@
 # Starbucks-Capstone-Challenge
 
 ## Table of Contents
-* [About Project](https://github.com/Razanaziz0/Disaster-Response-Pipeline-Project/blob/main/README.md#about-project) 
-* [Data description](https://github.com/Razanaziz0/Disaster-Response-Pipeline-Project/blob/main/README.md#installation)
-* [Result](https://github.com/Razanaziz0/Disaster-Response-Pipeline-Project/blob/main/README.md#instructions-to-run-the-code)
-* [Licensing](https://github.com/Razanaziz0/Disaster-Response-Pipeline-Project/blob/main/README.md#licensing)
+* [About Project](https://github.com/Razanaziz0/Starbucks-Capstone-Challenge/blob/main/README.md#about-project) 
+* [Data description](https://github.com/Razanaziz0/Starbucks-Capstone-Challenge/blob/main/README.md#data-description)
+* [Result](https://github.com/Razanaziz0/Starbucks-Capstone-Challenge/blob/main/README.md#result)
+* [Licensing](https://github.com/Razanaziz0/Starbucks-Capstone-Challenge/blob/main/README.md#licensing)
 ## About Project
 #### This is the project of Udacity's data scientist nanodegree program 
 In this project I use data analytics power to see customer behavior on the Starbucks shops and predicts whats the main features can  advertis the Starbucks customers by sending offers to users to get discount, or buy one get on free (BOGO).
